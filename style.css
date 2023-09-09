@@ -932,7 +932,8 @@ ul {
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
-        padding-bottom: 12rem;
+        padding-bottom: 16rem;
+        
     }
     .herosection_h1 {
         font-family: 'Outfit', sans-serif;
